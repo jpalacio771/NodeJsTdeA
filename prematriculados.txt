@@ -1,0 +1,5 @@
+prematriculados.txtEl estudiante Juan
+Con cedula :66666
+Se registró en el curso Inglés
+Con duracion de 4 meses
+Y un valor de 100000

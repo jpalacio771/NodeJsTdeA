@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Primera entrega TdeA",
   "main": "HU1.js",
-  "scripts": {
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jpalacio771@gmail.com",
